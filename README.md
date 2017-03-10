@@ -16,15 +16,15 @@ Jersey > https://jersey.java.net/
 
 ## Prerequesites
 
-1 - This app use maven to build and download dependencies. Please, if you still not know about it, please go to https://maven.apache.org/guides/getting-started/
+1 - This app use maven to build and download dependencies. Please, if you still not know how use, please go to https://maven.apache.org/guides/getting-started/
 
-2 - Create a client id and secret on facebook (https://developers.facebook.com/). Configure the url of your site to facebook allow the traffic user and login.
+2 - Create a client id and secret on facebook (https://developers.facebook.com/). Configure the url of your site to facebook allow the traffic between your site and facebook.
 
-3 - Create a client id and secret on google (https://console.developers.google.com). Configure the url of your site to google allow the traffic user and login. Configure too the url redirect. Google need know where go back to your site/server. ;)
+3 - Create a client id and secret on google (https://console.developers.google.com). Configure the url of your site to google allow the traffic between your site and google. Configure too the url redirect. Google need know where go back to your site/server. ;)
 
-4 - After steps 2 and 3, go to application.properties located in src/main/resources and updated with information from each authorization site.
+4 - After steps 2 and 3, go to application.properties located in src/main/resources and update with information from each authorization site.
 
-5 - If still not know about Spring Boot, please, I think you should know about it. Pivotal have made a great job! (https://projects.spring.io/spring-boot/)
+5 - If still not know about Spring Boot, please, I think you should know about it. Pivotal has been made a great job! (https://projects.spring.io/spring-boot/)
 
 6 - Remember: Add Apache Oltu on pom.xml file to maven know where is the dependency.
 
@@ -47,7 +47,9 @@ Or
 If you use Spring Tool Suite like me, perform the follow steps:
 
 1 - Right click on project
+
 2 - Choose Run As...
+
 3 - Then choose Maven Build
 
 ## Run
@@ -62,5 +64,7 @@ Or
 If you use Spring Tool Suite...
 
 1 - Right click on project
+
 2 - Choose Run As...
+
 3 - Then choose Spring Boot App
