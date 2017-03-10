@@ -1,6 +1,11 @@
 # SpringBoot + Jersey + Apache Oltu Oauth2
 
-Hello! This project show how configure SpringBoot App that use Jersey REST Controller and OAuth2 with Apache Oltu ;)
+This project show how configure SpringBoot App that use Jersey REST Controller and OAuth2 with Apache Oltu ;)
+
+## RFC 2616
+
+This example apply Authorization Request flow (https://tools.ietf.org/html/rfc6749#section-4.1.1)
+To learn well how OAuth2 works I recommend read RFC 2616 for The OAuth 2.0 Authorization Framework (https://tools.ietf.org/html/rfc6749)
 
 ### Ps.: This is simple app to show you how start using apache oltu. Please, improve and apply design patterns to let you app be more professional.
 
