@@ -7,8 +7,11 @@ Hello! This project show how configure SpringBoot App that use Jersey REST Contr
 ### References
 
 Spring Boot > https://projects.spring.io/spring-boot/
+
 Apache Oltu > https://oltu.apache.org/
+
 Maven > https://maven.apache.org/
+
 Jersey > https://jersey.java.net/
 
 ## Prerequesites
@@ -33,7 +36,7 @@ Jersey > https://jersey.java.net/
 </dependency>
 '''
 
-## CompileS
+## Compile
 
 If you like to use command-line terminal, go to root directory and run following command:
 
@@ -47,7 +50,7 @@ If you use Spring Tool Suite like me, perform the follow steps:
 2 - Choose Run As...
 3 - Then choose Maven Build
 
-## RunS
+## Run
 
 If you use command-line terminal, go to root directory and run following command:
 (http://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-running-your-application.html)
