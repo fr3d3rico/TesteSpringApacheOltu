@@ -33,13 +33,13 @@ Jersey > https://jersey.java.net/
 
 6 - Remember: Add Apache Oltu on pom.xml file to maven know where is the dependency.
 
-'''xml
+```xml
 <dependency>
     <groupId>org.apache.oltu.oauth2</groupId>
     <artifactId>org.apache.oltu.oauth2.client</artifactId>
     <version>1.0.2</version>
 </dependency>
-'''
+```
 
 ## Compile
 
